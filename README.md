@@ -24,4 +24,4 @@
 ## 📕 Contributors
 | [bykim](https://github.com/nekh802) | [Crinex]() |
 |:---:|:---:|
-| [doyeon](https://github.com/dddooo9) | [heheui](https://github.com/heheui) |
+|| [heheui](https://github.com/heheui) |
